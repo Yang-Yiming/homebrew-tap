@@ -1,4 +1,4 @@
-class ccrl < Formula
+class Ccrl < Formula
   desc "A Lightweight ClaudeCode Router"
   homepage "https://github.com/Yang-Yiming/cc-router-lite"
   url "https://github.com/Yang-Yiming/cc-router-lite/archive/refs/tags/v0.1.tar.gz"
