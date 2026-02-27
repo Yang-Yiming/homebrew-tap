@@ -7,7 +7,7 @@ class Ccrl < Formula
   on_macos do
     on_arm do
       url "https://github.com/Yang-Yiming/cc-router-lite/archive/refs/tags/v#{version}.tar.gz"
-      sha256 "05c875160afd73c73ae1956315aa8edde6807dace009ead834898213d889d3cb"
+      sha256 "8adeae4bfe7929a1267f33c80ad4150d3ee5f44b1ed19a9220498b175e4872ef"
     end
   end
 
