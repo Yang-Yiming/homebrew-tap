@@ -12,7 +12,7 @@ class Flicker < Formula
   end
 
   def install
-    bin.install "flicker-aarch64-apple-darwin/flicker"
+    bin.install "flicker"
   end
 
   test do
