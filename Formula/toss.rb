@@ -1,13 +1,13 @@
 class Toss < Formula
   desc "Deploy self-built iOS .app bundles to connected devices"
   homepage "https://github.com/Yang-Yiming/AppTossLite"
-  version "0.1.0"
+  version "0.2.0"
   license "MIT"
 
   on_macos do
     on_arm do
       url "https://github.com/Yang-Yiming/AppTossLite/releases/download/v#{version}/toss-v#{version}-aarch64-apple-darwin.tar.gz"
-      sha256 "295ba5f65b747edafda17bb089868a24e4760fe9d197161a1b6a4641f682db5c"
+      sha256 "e9e4615b136b97cc1eb52671de64341541287bc518e57797e02d16b244b39b08"
     end
   end
 
