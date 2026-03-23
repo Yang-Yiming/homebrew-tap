@@ -1,13 +1,13 @@
 class Ccrl < Formula
   desc "A Lightweight ClaudeCode Router"
   homepage "https://github.com/Yang-Yiming/cc-router-lite"
-  version "0.4.1"
+  version "0.5.0"
   license "MIT"
 
   on_macos do
     on_arm do
       url "https://github.com/Yang-Yiming/cc-router-lite/releases/download/v#{version}/ccrl-aarch64-apple-darwin.tar.gz"
-      sha256 "0d37df31f73f5e9fbecb8d31cb93ab689af2e9e65b9cf4c8fc669e91a5f4771b"
+      sha256 "99e92ee7a1cbccfb0abebb3b268eff10785ea172cc7322e20eae626f5bd64529"
     end
   end
 
